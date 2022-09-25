@@ -27,7 +27,7 @@ const Hero = () => {
           <span className="text-gradient">Blockchain</span>{" "}
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Hackathon will start on November 12 at 6 p.m. & end on November 13 at 6 p.m.
+        Hackathon will start on November 11 at 6 p.m. & end on November 13 at 6 p.m.
         Winners announcement on November 14 at 7 p.m (Children's Day).
         </p>
       </div>
